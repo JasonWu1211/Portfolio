@@ -1,1 +1,8 @@
 # Portfolio
+
+### R
+
+### Python
+
+### SQL
+
