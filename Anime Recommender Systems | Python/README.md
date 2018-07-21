@@ -13,7 +13,7 @@ The goal of this project was to develop a collaborative-based anime recommender 
 
 
 ### Scripts
-- Jupyter NoteBook
+- Jupyter Notebook
   - [Exploratory Analysis](./Jupyter%20notebook/Jason_Anime_recommender_system-EDA_of_original_anime_datasets.ipynb)
   - [Data Preproccesing](./Jupyter%20notebook/Jason_Anime_recommender_system_Data_Preproccessing.ipynb)
   - [Model Training & Validation](./Jupyter%20notebook/Jason_Anime_recommender_system_Model%20training.ipynb)
