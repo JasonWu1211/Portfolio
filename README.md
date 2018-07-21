@@ -3,7 +3,7 @@
 ### R
 * [Data Visualization: Chicago Crime | R](/Data%20Visualization%20-%20Chicago%20Crime%20%7C%20R)
 * [Time Series Analysis: Apple Stock Price | R](/Time%20Series%20Analysis%20-%20Apple%20Stock%20Price%20%7C%20R)
-* [Advanced Analysis: PokemonRadar | R](/Advanced%20Analysis%20-%20PokemonRadar%20%7C%20R)
+* [Advanced Analysis: Pokemon Radar | R](/Advanced%20Analysis%20-%20PokemonRadar%20%7C%20R)
 
 ### Python
 * [Anime Recommender Systems | Python](/Anime%20Recommender%20Systems%20%7C%20Python)
