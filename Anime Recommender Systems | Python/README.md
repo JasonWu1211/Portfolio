@@ -20,4 +20,4 @@ The goal of this project was to develop a collaborative-based anime recommender 
   - [Model Evaluation & Selection](./Jupyter%20notebook/Jason_Anime_recommender_system_Model%20Evaluation_and_Comparsion.ipynb)
 - Python
   - [Reusable Data Preproccesing Program](./Python%20Scripts/data_cleaning.py)
-  - [Implemented Evaluation Metrics & Tools](./Python%20Scripts/Evaluation_Implemntation.py)
+  - [Custom built Evaluation Metrics & Tools](./Python%20Scripts/Evaluation_Implemntation.py)
