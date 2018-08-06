@@ -22,4 +22,4 @@ The goal of this project was to develop a collaborative-based anime recommender 
   - [Reusable Data Preproccesing Program](./Python%20Scripts/data_cleaning.py)
   - [Custom built Evaluation Metrics & Tools](./Python%20Scripts/Evaluation_Implemntation.py)
 - Report in PDF
-  - [Evalaution Report](./Report/Anime%20Recommender%20System%20_Evalaution_report.pdf)
+  - [Evaluation Report](./Report/Anime%20Recommender%20System%20_Evalaution_report.pdf)
