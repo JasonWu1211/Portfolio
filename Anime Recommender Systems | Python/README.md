@@ -23,4 +23,4 @@ The goal of this project was to develop a collaborative-based anime recommender 
   - [Custom built Evaluation Metrics & Tools](./Python%20Scripts/Evaluation_Implemntation.py)
 
 ### Detail Report in pdf
--[Evalaution Report](./Report/Anime%20Recommender%20System%20_Evalaution_report.pdf)
+- [Evalaution Report](./Report/Anime%20Recommender%20System%20_Evalaution_report.pdf)
