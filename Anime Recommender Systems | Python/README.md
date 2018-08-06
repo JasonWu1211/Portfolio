@@ -12,7 +12,7 @@ The goal of this project was to develop a collaborative-based anime recommender 
 * KNNWithMeans performed best on finding Niche listings
 
 
-### Scripts
+### Scripts & Report
 - Jupyter Notebook
   - [Exploratory Analysis](./Jupyter%20notebook/Jason_Anime_recommender_system-EDA_of_original_anime_datasets.ipynb)
   - [Data Preproccesing](./Jupyter%20notebook/Jason_Anime_recommender_system_Data_Preproccessing.ipynb)
@@ -21,6 +21,5 @@ The goal of this project was to develop a collaborative-based anime recommender 
 - Python
   - [Reusable Data Preproccesing Program](./Python%20Scripts/data_cleaning.py)
   - [Custom built Evaluation Metrics & Tools](./Python%20Scripts/Evaluation_Implemntation.py)
-
-### Detail Report in pdf
-- [Evalaution Report](./Report/Anime%20Recommender%20System%20_Evalaution_report.pdf)
+- Report in PDF
+  - [Evalaution Report](./Report/Anime%20Recommender%20System%20_Evalaution_report.pdf)
